@@ -1,0 +1,87 @@
+{
+	"id": "b5de28be-1b3f-42bb-9708-55b11448ba55",
+	"name": "Contact List",
+	"values": [
+		{
+			"key": "firstName",
+			"value": "Kaysee",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "lastName",
+			"value": "Smith",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "contactId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "12kaysee@kucher.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "phone",
+			"value": "5557894563",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "birthday",
+			"value": "1979-04-06",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "street1",
+			"value": "7979 JoffreAve",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "street2",
+			"value": "125",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "city",
+			"value": "Burnaby",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "stateProvince",
+			"value": "BC",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "postalCode",
+			"value": "V4L3L1",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "country",
+			"value": "Canada",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-01-31T07:37:09.278Z",
+	"_postman_exported_using": "Postman/10.22.9-240129-0641"
+}
